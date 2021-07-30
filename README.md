@@ -20,23 +20,3 @@ Here are some ideas to get you started:
 
 
 -------------
-####  Libft [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/Libft)](https://github.com/JaeSeoKim/badge42)
-
-
-#### get_next_line [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/get_next_line)](https://github.com/JaeSeoKim/badge42)
-
-
-#### ft_printf [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/ft_printf)](https://github.com/JaeSeoKim/badge42)
-
-
-#### netwhat [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/netwhat)](https://github.com/JaeSeoKim/badge42)
-
-
-#### ft_server [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/ft_server)](https://github.com/JaeSeoKim/badge42)
-
-
-#### cub3d [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/cub3d)](https://github.com/JaeSeoKim/badge42)
-
-
-#### push_swap [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/takim/push_swap)](https://github.com/JaeSeoKim/badge42)
-
