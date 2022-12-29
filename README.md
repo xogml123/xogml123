@@ -25,6 +25,7 @@
 - Github Action
 - Nginx
 - Terraform
+- Docker, Docker Compose
 - Sentry
 
 ## Tools & Collaboration
