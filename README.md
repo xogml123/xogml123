@@ -24,3 +24,12 @@
 - IntelliJ, DataGrip, VS Code, Vim
 - Git, Github, Gitkraken
 - Notion, Slack, Jira
+
+
+# 📄 Education
+
+---
+
+# 고려대학교 건축사회환경공학부
+
+
