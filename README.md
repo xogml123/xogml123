@@ -1,4 +1,4 @@
-# ⛏️ Skills
+# Skills
 
 ---
 
@@ -26,10 +26,11 @@
 - Notion, Slack, Jira
 
 
-# 📄 Education
+# Education
 
 ---
 
-# 고려대학교 건축사회환경공학부
+# 고려대학교 건축사회환경공학부 졸업
+# 한국방송통신대학교 컴퓨터학과 졸업
 
 
