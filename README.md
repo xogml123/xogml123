@@ -28,7 +28,8 @@
 
 ## Tools & Collaboration
 
-- IntelliJ, DataGrip, VS Code, Vim
+- IntelliJ, VS Code, Vim
+- Mysql Workbench, Data Grip
 - Git, Github, Gitkraken
 - Notion, Slack, Jira
 
