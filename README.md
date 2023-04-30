@@ -19,19 +19,11 @@
 
 - AWS - EC2, RDS, VPC, ELB, ASG, Code Deploy
 - MySQL, Redis
+- Kafka
 - Github Action
-- Nginx
-- Terraform
 - Docker, Docker Compose
 - Sentry
-
-## Tools & Collaboration
-
-- IntelliJ, VS Code, Vim
-- Mysql Workbench, Data Grip
-- Git, Github, Gitkraken
-- Notion, Slack, Jira
-
+- Prometheus, Grafana
 
 
 
