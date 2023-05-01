@@ -24,6 +24,7 @@
 - Docker, Docker Compose
 - Sentry
 - Prometheus, Grafana
+- JMeter
 
 
 
