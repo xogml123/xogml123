@@ -1,9 +1,3 @@
-# Education
-
-
-- 고려대학교 건축사회환경공학부 졸업
-- 42Seoul 3기 수료
-
 # Skills
 
 
